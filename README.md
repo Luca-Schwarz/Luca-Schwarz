@@ -1,4 +1,4 @@
-### Hi there 👋 I m Luca, new @ GitHub
+### Hi there 👋 I m Luca, helping business to harness the power of collaboration with GitHub
 
 <!--
 **Luca-Schwarz/Luca-Schwarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
